@@ -19,7 +19,8 @@ qa_pairs = {
     "do you know python": "Yes, I know Python! It's a great programming language.",
     "thanks": "No problem! If you have more questions, just ask.",
     "goodbye": "Goodbye! If you need anything else, just ask.",
-    "bye": "Goodbye! Have a nice day!"
+    "bye": "Goodbye! Have a nice day!",
+    "take care": "You too! Take care and have a great day!"
 }
 
 
