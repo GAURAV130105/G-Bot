@@ -1,3 +1,4 @@
+# G-Bot Chatbot
 G-Bot is a simple, mascot-style chatbot desktop application built with Python and Tkinter. It features a static, friendly mascot that launches a chatbot window when clicked. The chatbot can respond to a set of predefined questions and gracefully handles unknown inputs.
 
 ✨ Features
