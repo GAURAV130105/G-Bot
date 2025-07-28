@@ -64,7 +64,7 @@ root.geometry("250x300")
 root.resizable(False, False)
 
 
-img_path = "chatbot/Mascot.png"  # Replace with your mascot path
+img_path = "chatbot/Mascot.png" 
 mascot_img = Image.open(img_path).resize((150, 150), Image.Resampling.LANCZOS)
 mascot_photo = ImageTk.PhotoImage(mascot_img)
 
